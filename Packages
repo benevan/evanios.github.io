@@ -60,17 +60,17 @@ Icon2: 5.png
 Name: Relocate Reborn定位修改
 Sponsor: Ai-小苹果
 
-Package: x.DingTalkHelperX2
-Version: 2.1.5
+Package: x.evan.DingTalkHelperX2
+Version: 2.1.6
 Architecture: iphoneos-arm
 Maintainer: Editornah<mxiaohan.2018@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
 Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
-Filename: ./deb/x.dingtalkhelperx2_2.1.5_iphoneos-arm.deb
-Size: 241640
-MD5sum: 34b7f2388bfbc03e0128d77336150620
-SHA1: 6c9410c68fd9bf3b6092e12505fd9086c6865e63
-SHA256: 7e8b0a2eacaaf40148344b38dced57fbb39fb7ad5cdd24b89e55eb8e923e0151
+Filename: ./deb/x.evan.DingTalkHelperX2_2.1.6_iphoneos-arm.deb
+Size: 247518
+MD5sum: e1ad27dc88af8646a1d631cbaf186c52
+SHA1: c158dfcccee14fd1ff2b82496a9caa48474215a8
+SHA256: d4b1c936e207f6968de62390cbd57d9c917f52e71ccefb369ef4b24c65b0fdf0
 Section: Tweaks
 Priority: optional
 Homepage: https://cydia.editornah.top
