@@ -39,3 +39,26 @@ Icon2: 5.png
 Name: Relocate Reborn定位修改
 Sponsor: Ai-小苹果
 
+Package: x.DingTalkHelperX2
+Version: 2.1.5
+Architecture: iphoneos-arm
+Maintainer: Editornah<mxiaohan.2018@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
+Filename: ./deb/x.dingtalkhelperx2_2.1.5_iphoneos-arm.deb
+Size: 241640
+MD5sum: 34b7f2388bfbc03e0128d77336150620
+SHA1: 6c9410c68fd9bf3b6092e12505fd9086c6865e63
+SHA256: 7e8b0a2eacaaf40148344b38dced57fbb39fb7ad5cdd24b89e55eb8e923e0151
+Section: Tweaks
+Priority: optional
+Homepage: https://cydia.editornah.top
+Description: 启动页屏蔽、消息防撤回、自动抢红包、callkit语音
+Tag: purpose::extension, compatible::ios13
+Author: Editornah
+Depiction: https://cydia.editornah.top/depiction/DingTalkHelperX2/index.html
+Dev: EditorNah
+Icon: file:///Library/PreferenceLoader/Preferences/DingTalkHelperX.png
+Name: DingTalkHelperX2
+Sponsor: Editornah <mxiaohan.2018@gmail.com>
+
