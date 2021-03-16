@@ -19,3 +19,23 @@ Description: Interactive dismiss gesture on the whole screen in all apps.
 Author: AnthoPak, whoami
 Name: PanCake
 
+Package: com.cydiabc.relocate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Installed-Size: 492
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader
+Filename: ./deb/com.cydiabc.relocate_1.0.1_iphoneos-arm.deb
+Size: 70934
+MD5sum: 11ac7931adcaa3af33b341ce4ba9f81a
+SHA1: 8a8989bbf7d2060df2dce05fa5ed1a88738736b6
+SHA256: 7426d7f70fd6056111e755b673ef7070f3c39ce1af67b9d629fd63a56edccf5a
+Section: 工具
+Description: 极简的GPS伪装位置更改，具体预览截图
+A12: 1
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Icon2: 5.png
+Name: Relocate Reborn定位修改
+Sponsor: Ai-小苹果
+
