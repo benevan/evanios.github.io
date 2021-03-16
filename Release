@@ -1,8 +1,8 @@
-Origin: Editornah's Repo
-Label: Editornah's Repo
+Origin: Evan's Repo
+Label: Evan's Repo
 Suite: stable
 Version: 2.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Editornah's repo
+Description: Evan's repo
