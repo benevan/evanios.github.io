@@ -19,6 +19,27 @@ Description: Interactive dismiss gesture on the whole screen in all apps.
 Author: AnthoPak, whoami
 Name: PanCake
 
+Package: com.cydiabc.flyjbx
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果™
+Installed-Size: 1160
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: kr.xsf1re.flyjb, kr.xsf1re.flyjbx, netskao.flyjb
+Filename: ./deb/com.cydiabc.flyjbx_1.0.8_iphoneos-arm.deb
+Size: 421734
+MD5sum: d0f605d144a2f7cf3c9cdb9107b9a994
+SHA1: 7ef938e6d33be6c12f752e718716d72df3964fed
+SHA256: 6bdc8e25b451664ad75b887c7b9d1bbb88af0f178860547ce5e6585887c457dc
+Section: 系统
+Description: FlyJBX(12.31最新源码编译)，屏蔽越狱检测 激活指纹 面容支付
+A12: 1
+Author: XsF1re
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+Name: FlyJB X屏蔽越狱检测
+Sponsor: Ai-小苹果™
+
 Package: com.cydiabc.relocate
 Version: 1.0.1
 Architecture: iphoneos-arm
